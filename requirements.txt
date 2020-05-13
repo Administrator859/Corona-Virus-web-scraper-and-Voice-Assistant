@@ -8,3 +8,7 @@ SpeechRecognition==3.8.1
 
 ***DOWNLOAD THE PYAUDIO IN HERE*** https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 pyaudio==0.2.11
+
+***DOWNLOAD PARSEHUB HERE*** https://www.parsehub.com/
+
+***AFTER YOU DOWNLOAD THE PARSEHUB YOU NEED TO COPY THE INFORMATION IN CORORNA VIRUS HERE*** https://www.worldometers.info/coronavirus/
