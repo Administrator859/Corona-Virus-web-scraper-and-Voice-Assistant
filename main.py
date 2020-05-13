@@ -9,7 +9,9 @@ import playsound
 import threading
 from gtts import gTTS
 
-API_KEY = "tZh4CeY9xtt7"
+#BEFORE YOU COPY PASTE THIS YOU NEED TO DOWNLOAD PARSEHUB 
+
+API_KEY = "YOUR PARSEHUB API_KEY CODE HERE"
 PROJECT_TOKEN = "t3w19VjXRx9T"
 RUN_TOKEN = "tPRkQztCuyfd"
 
